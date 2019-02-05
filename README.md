@@ -3,6 +3,8 @@
 To get this to run on Windows simply: Download the whole folder. SHIFT + RIGHT CLICK inside the main containing the .py file, PRESS 'open PowerShell window here', TYPE & ENTER: python results_extractor.py
 
 
+
+
 The purpose of the script is to the following:
 
 --> CanEye softeware was used to generate excel data for multiple image sets, each excel file was placed in a directory (time) and many subdirectories (person, and other junk ones).
