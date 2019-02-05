@@ -22,12 +22,3 @@ The purpose of the script is to the following:
 
 --> For the sake of keeping our lab data confidential, I will make excel files with fake values.
 
-
-This is what the script is doing: 
-
---> Go through each excel files in the directory tree, extract 4 key values from each excel file, put all data in one main excel file where each sheet is a different time period
-
-
-This is how the directories are structured in the main CANEYE folder (Junk is just other files/folders that you don't need to know about, it can represent one or multiple files/folders | [] represent many files/folders of that category):
-
---> | CANEYE \\ Fisheye, Junk \\ [Time folders] \\ [Person Folders] \\  Junk  \\ data.xlsx, Junk
