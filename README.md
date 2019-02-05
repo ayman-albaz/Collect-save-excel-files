@@ -1,5 +1,7 @@
 # Accessing-and-collecting-data-from-excel-files-in-different-folders
 
+To get this to run on Windows simply: Download the whole folder. SHIFT + RIGHT CLICK inside the main containing the .py file, PRESS 'open PowerShell window here', TYPE & ENTER: python results_extractor.py
+
 
 The purpose of the script is to the following:
 
@@ -19,8 +21,6 @@ The purpose of the script is to the following:
 --> This script had to be given to a person with no computer science training, so it had to be simple for them to run.
 
 --> Lots of 'print' statements are included so non-computer science users can know whats happening just from reading the terminal.
-
---> To get this to run on Windows simply: SHIFT + RIGHT CLICK inside the main containing the .py file, PRESS 'open PowerShell window here', TYPE & ENTER: python results_extractor.py
 
 --> For the sake of keeping our lab data confidential, I will make excel files with fake values.
 
