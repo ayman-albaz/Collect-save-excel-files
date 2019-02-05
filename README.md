@@ -4,13 +4,15 @@
 The purpose of the script is to the following:
 
 --> CanEye softeware was used to generate excel data for multiple image sets, each excel file was placed in a directory (time) and many subdirectories (person, and other junk ones).
+
 --> The Post-Doc researcher I was working with told me to go through the files one by one to extract 9 key data points and put them all in one excel file with pages for each time.
 
 --> The 9 data points are: 4 FAPAR values, 3 PAI - ALA values, the directory name (time), the subdirectory name (person).
-    --> Note that directory and subdirectory names are not from the excel file itsself.
+    * Note that directory and subdirectory names are not from the excel file itsself. *
+
 --> There were over 70 files so this work would be extremely tedious to do by hand.
 
---> to overcome this I decided to automate the processes.
+--> To overcome this I decided to automate the processes.
 
 --> This script also had to be run on OTHER people's CANEYE data so it had to be generalizable to over 500 different excel files from different people.
 
