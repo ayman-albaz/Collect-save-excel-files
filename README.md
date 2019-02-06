@@ -1,6 +1,6 @@
 # Accessing-collecting-saving-data-from-excel-files-in-different-folders
 
-To get this to run on Windows simply: Download the whole folder. Go to the CanEye directory SHIFT + RIGHT CLICK inside the folder containing the .py file, PRESS 'open PowerShell window here', TYPE & ENTER: python results_extractor.py
+Quick Run: To get this to run on Windows simply: Download the whole folder. Go to the CanEye directory SHIFT + RIGHT CLICK inside the folder containing the .py file, PRESS 'open PowerShell window here', TYPE & ENTER: python results_extractor.py
 
 
 
